@@ -1,5 +1,5 @@
 from buble import buble_sort
-from quicksort import quick_sort
+from quick_sort import quick_sort
 
 n = int(input("Enter the number of array elements:"))
 arr = []
